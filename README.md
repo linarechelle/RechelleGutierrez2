@@ -50,7 +50,8 @@
 - Logging bug reports with steps to reproduce, expected vs actual results  
 - Collaborating with developers to resolve defects efficiently  
 
-**📋 Bug Tracking Process:**
+### 📋 Bug Tracking Process
+
 1️⃣ Identify & Reproduce the bug  
 2️⃣ Document steps in Jira/Zephyr  
 3️⃣ Prioritize severity & impact  
